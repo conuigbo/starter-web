@@ -16,3 +16,7 @@ As stated above I'm a g tho.
 ## Deployment
 
 This is a sipmle web project, deployment can be used
+
+### Copyright
+
+2020 Git.Training.
