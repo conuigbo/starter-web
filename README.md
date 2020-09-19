@@ -9,8 +9,10 @@ This is example is to show different parts of the Git repo
 
 ## Purpose
 
-Sample website with plenty of files for demos yep
+As stated above I'm a g tho.
 
 
 
 ## Deployment
+
+This is a sipmle web project, deployment can be used
