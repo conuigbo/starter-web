@@ -17,6 +17,9 @@ As stated above I'm a g tho.
 
 This is a sipmle web project, deployment can be used
 
+##How To Contribute
+Please fork this repo and fork for review
+
 ### Copyright
 
 2020 Git.Training.
